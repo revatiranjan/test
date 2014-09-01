@@ -1,4 +1,4 @@
 test
 ====
 
-some test codes to sink in home and  office
+some test codes to sink between home and  office
